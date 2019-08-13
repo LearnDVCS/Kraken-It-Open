@@ -7,6 +7,8 @@ After you download GitKraken, you should do the following to get things coordina
   - under *General*, setup your common settings.
   - under *Authentication* for *GitHub*, generate a **SSH** key to use in the classroom.
 
+The following screenshots should aid you in doing this setup.
+
 ----
 
 ## Sign in with GitHub
